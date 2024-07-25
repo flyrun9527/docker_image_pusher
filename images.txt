@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #tdengine
 tdengine/tdengine:3.3.2.0
+taskweavercontainers/taskweaver-executor:latest
