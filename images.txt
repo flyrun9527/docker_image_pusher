@@ -12,4 +12,5 @@
 #ghcr.io/open-webui/open-webui:ollama
 #ollama/ollama
 #taskweavercontainers/taskweaver-all-in-one:latest
-portainer/portainer:latest
+#portainer/portainer:latest
+amazoncorretto:11
