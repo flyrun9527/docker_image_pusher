@@ -13,7 +13,11 @@
 #ollama/ollama
 #taskweavercontainers/taskweaver-all-in-one:latest
 #portainer/portainer:latest
-amazoncorretto:11
-amazoncorretto:8
-amazoncorretto:17
-amazoncorretto:21
+#amazoncorretto:11
+#amazoncorretto:8
+#amazoncorretto:17
+#amazoncorretto:21
+
+hoppscotch/hoppscotch-frontend:2024.7.1
+hoppscotch/hoppscotch-backend:2024.7.1
+hoppscotch/hoppscotch-admin:2024.7.1
