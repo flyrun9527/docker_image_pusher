@@ -18,6 +18,7 @@
 #amazoncorretto:17
 #amazoncorretto:21
 
-hoppscotch/hoppscotch-frontend:2024.7.1
-hoppscotch/hoppscotch-backend:2024.7.1
-hoppscotch/hoppscotch-admin:2024.7.1
+#hoppscotch/hoppscotch-frontend:2024.7.1
+#hoppscotch/hoppscotch-backend:2024.7.1
+#hoppscotch/hoppscotch-admin:2024.7.1
+hoppscotch/hoppscotch:2024.7.1
