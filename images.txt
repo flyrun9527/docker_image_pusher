@@ -22,4 +22,9 @@
 #hoppscotch/hoppscotch-backend:2024.7.1
 #hoppscotch/hoppscotch-admin:2024.7.1
 #hoppscotch/hoppscotch:2024.7.1
-hoppscotch/hoppscotch-enterprise:2024.7.1
+#hoppscotch/hoppscotch-enterprise:2024.7.1
+
+dockage/mailcatcher:0.8.2
+gaozhidf/hoppscotch-app:20230401
+gaozhidf/hoppscotch-sh-admin:20230401
+gaozhidf/hoppscotch-backend:20230401
