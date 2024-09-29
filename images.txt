@@ -34,6 +34,5 @@
 #nginx:1.23.4
 #mysql:8.0.33
 #openresty/openresty:latest
-keking/kkfileview:4.4.0
 keking/kkfileview:4.1.0
 keking/kkfileview:4.3.0
