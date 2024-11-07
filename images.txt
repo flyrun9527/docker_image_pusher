@@ -35,4 +35,5 @@
 #mysql:8.0.33
 #openresty/openresty:latest
 #keking/kkfileview:4.1.0
-doccano/doccano
+#doccano/doccano
+heartexlabs/label-studio
