@@ -36,5 +36,7 @@
 #openresty/openresty:latest
 #keking/kkfileview:4.1.0
 #doccano/doccano
-heartexlabs/label-studio
-alpine:latest
+#heartexlabs/label-studio
+#alpine:latest
+amd64/buildpack-deps:buster-curl
+adoptopenjdk/openjdk8:jre8u372-b07
