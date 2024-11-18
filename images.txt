@@ -37,3 +37,4 @@
 #keking/kkfileview:4.1.0
 #doccano/doccano
 heartexlabs/label-studio
+alpine:latest
