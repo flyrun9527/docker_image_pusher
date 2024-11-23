@@ -38,5 +38,6 @@
 #doccano/doccano
 #heartexlabs/label-studio
 #alpine:latest
-amd64/buildpack-deps:buster-curl
-adoptopenjdk/openjdk8:jre8u372-b07
+#amd64/buildpack-deps:buster-curl
+#adoptopenjdk/openjdk8:jre8u372-b07
+mysql:5.6
