@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #tdengine 
-#tdengine/tdengine:3.3.3.0
+tdengine/tdengine:3.3.4.3
 #taskweavercontainers/taskweaver-executor:latest
 #ghcr.io/open-webui/open-webui:cuda
 #ghcr.io/open-webui/open-webui:main
@@ -41,4 +41,4 @@
 #amd64/buildpack-deps:buster-curl
 #adoptopenjdk/openjdk8:jre8u372-b07
 #mysql:5.6
-nginx:1.27.3
+#nginx:1.27.3
