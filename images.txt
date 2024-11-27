@@ -40,4 +40,5 @@
 #alpine:latest
 #amd64/buildpack-deps:buster-curl
 #adoptopenjdk/openjdk8:jre8u372-b07
-mysql:5.6
+#mysql:5.6
+nginx:1.27.3
