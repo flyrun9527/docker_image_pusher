@@ -12,7 +12,8 @@ tdengine/tdengine:3.3.4.3
 #ghcr.io/open-webui/open-webui:ollama
 #ollama/ollama
 #taskweavercontainers/taskweaver-all-in-one:latest
-portainer/portainer-ce:2.21.4
+#portainer/portainer-ce:2.21.4
+6053537/portainer-ce:2.19.4
 #amazoncorretto:11
 #amazoncorretto:8
 #amazoncorretto:17
