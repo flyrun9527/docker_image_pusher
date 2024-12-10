@@ -46,4 +46,5 @@ tdengine/tdengine:3.3.4.8
 #mysql:5.6
 #nginx:1.27.3
 #cym1102/nginxwebui:4.2.5
-openjdk:8-jre-slim
+#openjdk:8-jre-slim
+emqx/emqx-enterprise:5.8.3
