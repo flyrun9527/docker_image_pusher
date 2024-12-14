@@ -48,4 +48,5 @@ tdengine/tdengine:3.3.4.8
 #cym1102/nginxwebui:4.2.5
 #openjdk:8-jre-slim
 #emqx/emqx-enterprise:5.8.3
-emqx/mqttx-web
+#emqx/mqttx-web
+ghcr.io/stakater/reloader:latest
