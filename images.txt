@@ -56,3 +56,5 @@
 radondb/clickhouse-server:21.1.3.32
 clickhouse/clickhouse-server:22.10.7.13
 radondb/chronus-operator:2.1.3
+radondb/zookeeper:3.6.1
+
