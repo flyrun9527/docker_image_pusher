@@ -70,4 +70,7 @@
 #quay.io/strimzi/maven-builder@sha256:6ce3c16284379d5db9e42a6f3e2b765c981091164a28fdd6bf927b6c5d4ab557
 registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0
 quay.io/cephcsi/cephcsi:v3.9.0
-gcr.io/k8s-staging-sig-storage/csi-provisioner
+gcr.io/k8s-staging-sig-storage/csi-provisioner:v3.5.0
+registry.k8s.io/sig-storage/csi-resizer:v1.8.0
+registry.k8s.io/sig-storage/csi-attacher:v4.3.0
+registry.k8s.io/sig-storage/csi-snapshotter:v6.2.2
