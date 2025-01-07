@@ -79,3 +79,7 @@ radondb/chronus-metrics-operator:2.1.1
 #altinity/clickhouse-operator:0.22.2
 #altinity/metrics-exporter:0.22.2
 #docker.io/zookeeper:3.8.1
+longhornio/longhorn-manager:v1.0.2
+longhornio/longhorn-ui:v1.0.2
+alpine:3.17
+registry.k8s.io/pause:3.1
