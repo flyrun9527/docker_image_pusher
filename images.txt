@@ -86,10 +86,10 @@ radondb/chronus-metrics-operator:2.1.1
 #registry.k8s.io/pause:3.1
 #longhornio/longhorn-instance-manager:v1_20200514
 #longhornio/longhorn-engine:v1.0.2
-longhornio/longhorn-engine:v1.7.2
-longhornio/longhorn-manager:v1.7.2
-longhornio/longhorn-ui:v1.7.2
-longhornio/longhorn-instance-manager:v1.7.2
+#longhornio/longhorn-engine:v1.7.2
+#longhornio/longhorn-manager:v1.7.2
+#longhornio/longhorn-ui:v1.7.2
+#longhornio/longhorn-instance-manager:v1.7.2
 longhornio/longhorn-share-manager:v1.7.2
 longhornio/backing-image-manager:v1.7.2
 longhornio/support-bundle-kit:v0.0.45
