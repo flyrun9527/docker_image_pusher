@@ -101,5 +101,6 @@
 #longhornio/livenessprobe:v2.14.0
 #mysql:5.6
 #wordpress:4.8-apache
-wordpress:6.7.1
-mysql:5.7
+#wordpress:6.7.1
+#mysql:5.7
+wordpress:latest
