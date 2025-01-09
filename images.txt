@@ -100,3 +100,4 @@
 #longhornio/csi-snapshotter:v7.0.2-20241007
 #longhornio/livenessprobe:v2.14.0
 mysql:5.6
+wordpress:4.8-apache
