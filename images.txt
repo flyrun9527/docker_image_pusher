@@ -104,9 +104,10 @@
 #wordpress:6.7.1
 #mysql:5.7
 #wordpress:latest
-bitnami/wordpress:6.7.1-debian-12-r9
-bitnami/os-shell:12-debian-12-r34
-bitnami/apache-exporter:1.0.9-debian-12-r6
+#bitnami/wordpress:6.7.1-debian-12-r9
+#bitnami/os-shell:12-debian-12-r34
+#bitnami/apache-exporter:1.0.9-debian-12-r6
+bitnami/wordpress:6.2.2-debian-11-r73
 
 
 
