@@ -6,7 +6,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #tdengine 
-#tdengine/tdengine:3.3.4.8
+tdengine/tdengine:3.3.5.0
 #taskweavercontainers/taskweaver-executor:latest
 #ghcr.io/open-webui/open-webui:cuda
 #ghcr.io/open-webui/open-webui:main
@@ -107,7 +107,7 @@
 #bitnami/wordpress:6.7.1-debian-12-r9
 #bitnami/os-shell:12-debian-12-r34
 #bitnami/apache-exporter:1.0.9-debian-12-r6
-bitnami/wordpress:6.2.2-debian-11-r73
+#bitnami/wordpress:6.2.2-debian-11-r73
 
 
 
